@@ -1,1 +1,1 @@
-# Bamamazon
+# bamazon
